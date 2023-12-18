@@ -257,6 +257,7 @@ input[type="checkbox"] + span {
 
 .content__list-item:has(.content__card-link_current) {
   background-color: #545050;
+  max-width: 399px;
 }
 
 .content__card-link {
