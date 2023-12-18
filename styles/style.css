@@ -170,7 +170,6 @@ input[type="checkbox"] + span {
   width: 19px;
   height: 19px;
   outline: 1px solid #fff;
-  margin-right: 5px;
   background-color: transparent;
 }
 
